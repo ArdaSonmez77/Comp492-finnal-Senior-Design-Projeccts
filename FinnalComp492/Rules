@@ -1,0 +1,9 @@
+You must combine 17 stone 
+
+these types
+
+2group(It rule is their variables are must be equal) Ex:5 5   11 11   4 4
+
+3group(It rule is maximum value of these tree of them must equal to summation of smallest 2 numbers)  11 3 8   13 1 12
+
+You can't use 0 to make grouping
